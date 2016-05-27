@@ -9,7 +9,8 @@
       error: 'err',
       debug: 'deb',
       warn: 'warn',
-      info: 'info'
+      info: 'info',
+      trace: 'trace'
     }, i = 0, key, items = Object.keys(shortcuts),
     console = context.console;
   // Loop through shortcuts.
