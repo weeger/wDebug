@@ -7,6 +7,7 @@ Shorten functions for console logs. Don't use it in production.
   - warn() => console.warn()
   - info() => console.info()
   - trace() => console.trace()
+
 Copyright
 ---------
 Copyright Romain WEEGER 2010 / 2015
